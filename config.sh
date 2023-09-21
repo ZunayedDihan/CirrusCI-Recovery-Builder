@@ -6,5 +6,5 @@ export DT_BRANCH=twrp-12
 export DEVICE_PATH=device/infinix/X6827
 export DEVICE=X6827
 export MAKEFILE=twrp_X6827
-export TARGET=bootimage
-export OUTPUT=boot.img
+export TARGET=vendorbootimage
+export OUTPUT=vendor_boot.img
